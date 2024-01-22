@@ -59,7 +59,6 @@ The following Power BI features were incorporated :
 
 ---
 
-You can interact with my Power BI report [Here]([https://app.powerbi.com/view?r=eyJrIjoiODMzZjQwZWItNTAyMC00ZDA1LTgxMjUtMTQ2YmQ5ZTlmYzRkIiwidCI6IjM4N2IyZTQ0LTM2ZTEtNDliMy04OWMxLTc1NDM4ZDc3NmQ1MiJ9](https://www.novypro.com/project/call-centre-trend-5)https://www.novypro.com/project/call-centre-trend-5)
-
+You can interact with my Power BI report [Here](https://www.novypro.com/project/call-centre-trend-5)
 You can check my entire documentation on medium page [Here](https://medium.com/@simrangodse18/pwc-call-centre-analysis-b35129fa5e10)
 
