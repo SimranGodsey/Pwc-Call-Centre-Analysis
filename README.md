@@ -24,8 +24,7 @@ The following Power BI features were incorporated :
 - Buttons
 
 ## Modelling
- Created a Date table and build relationship with the existing table :
- ![](Data_Modeling.png)
+ Since there is one table. So, there is no need of Data Modelling.
 
  ## Visualization
  The Power BI Report Consist of 3 pages :
